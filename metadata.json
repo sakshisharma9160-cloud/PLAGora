@@ -1,0 +1,6 @@
+{
+  "name": "PLAGora - Open-Source Plagiarism Detection System",
+  "description": "Self-hostable, transparent plagiarism detection combining deterministic winnowing, lexical TF-IDF matching, semantic embeddings, and explainable SLM triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
